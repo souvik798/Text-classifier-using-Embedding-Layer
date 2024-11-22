@@ -32,8 +32,8 @@ Train the model for 30 epochs using the prepared training data and validate its 
 Evaluate the model's accuracy and loss, and plot the results to track performance over time.
 
 ## PROGRAM
-### Name:Joyce Beulah R
-### Register Number:212222230058
+### Name:SOUVIK KUNDU
+### Register Number:212221230105
 ```
 import tensorflow as tf
 import numpy as np
